@@ -1,4 +1,4 @@
-Conflict 1
+Conflict 1 resolve 1
 Conflict 2
 Conflict 3
 Conflict 4
